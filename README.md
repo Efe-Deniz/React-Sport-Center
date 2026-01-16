@@ -15,11 +15,11 @@ This project focuses on **component-based architecture**, **responsive design**,
 
 ### 🖥️ Desktop View
 
-![Desktop View](../sport-center-react/src/assets/web.png)
+![Desktop View](/src/assets/web.png)
 
 ### 📱 Mobile View
 
-![Mobile View](../sport-center-react/src/assets/mobile.png)
+![Mobile View](/src/assets/mobile.png)
 
 ---
 

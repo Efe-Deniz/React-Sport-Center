@@ -1,16 +1,82 @@
-# React + Vite
+# 🏋️‍♂️ React Sport Center
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **Sport / Fitness Center** website built with React.
+This project focuses on **component-based architecture**, **responsive design**, and **clean UI/UX principles** using modern frontend tooling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+👉 [(react-sport-center.vercel.app)](https://react-sport-center.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🖥️ Desktop View
+
+![Desktop View](../sport-center-react/src/assets/web.png)
+
+### 📱 Mobile View
+
+![Mobile View](../sport-center-react/src/assets/mobile.png)
+
+---
+
+## ✨ Features
+
+-   Fully responsive layout (desktop & mobile)
+-   Component-based architecture with React
+-   Modern and clean UI/UX
+-   Programs, pricing plans, and testimonials sections
+-   Pricing cards (Basic / Premium / Pro)
+-   Reusable and scalable component structure
+-   Clean and readable codebase
+
+---
+
+## 🧰 Tech Stack
+
+-   **React**
+-   **Vite**
+-   **JavaScript (ES6+)**
+-   **CSS**
+-   **HTML5**
+
+---
+
+## 📂 Project Structure
+
+React-Sport-Center/
+├── public/
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── data/ # Static data (programs, plans, etc.)
+│ ├── assets/ # Images & icons
+│ ├── App.jsx
+│ └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+---
+
+## ⚙️ Installation & Run Locally
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Efe-Deniz/React-Sport-Center.git
+
+# Navigate into the project directory
+cd React-Sport-Center
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+```
